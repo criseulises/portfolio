@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "title": "Cristian Sanchez | Portfolio",
+    "description": "Cristian Sanchez Portfolio - Full Stack Software Developer"
+  },
+  "nav": {
+    "aboutMe": "About me",
+    "experience": "Experience",
+    "projects": "Projects",
+    "courses": "Courses",
+    "personal": "Personal",
+    "techMedia": "Tech & Media",
+    "community": "Community",
+    "youtube": "Youtube Channel",
+    "github": "Github Contribution",
+    "altruism": "Altruism",
+    "blog": "Blog",
+    "letsConnect": "Let's Connect"
+  },
+  "home": {
+    "greeting": "Hello",
+    "iam": "I'm",
+    "name": "Cristian Sanchez",
+    "aboutTitle": "About Me",
+    "aboutText": "I am a Software Developer with experience in Full Stack Development, specializing in Java. I possess strong problem-solving and leadership skills. My focus is on creating high-quality, efficient technology solutions, and I have a constant commitment to continuous improvement and learning. I am excited to contribute to the success of any development team and face technological challenges with passion and determination."
+  },
+  "projects": {
+    "title": "Projects",
+    "searchPlaceholder": "Search projects...",
+    "personal": {
+      "title": "Personal Projects"
+    },
+    "courses": {
+      "title": "Courses Projects"
+    },
+    "viewProject": "View",
+    "viewCode": "Code",
+    "noResults": "No projects found."
+  },
+  "youtube": {
+    "title": "Youtube Channel",
+    "latestVideos": "Latest Videos",
+    "countryVideos": "Country Videos",
+    "seriesVideos": "Series Videos",
+    "viewChannel": "View Channel"
+  },
+  "courseProjects": {
+    "aiPython": {
+      "title": "Artificial Intelligence & Python",
+      "description": "Course project on Artificial Intelligence using Python."
+    }
+  },
+  "videos": {
+    "firstVideo": "India, the country which built technology"
+  },
+  "footer": {
+    "about": "About",
+    "skills": "Skills",
+    "education": "Education",
+    "projects": "Projects",
+    "experience": "Experience"
+  },
+  "placeholder": {
+    "title": "Coming Soon",
+    "description": "This section is under construction. Come back soon to see what's new."
+  }
+}

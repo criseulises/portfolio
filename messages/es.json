@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "title": "Cristian Sanchez | Portfolio",
+    "description": "Portfolio de Cristian Sanchez - Desarrollador de Software Full Stack"
+  },
+  "nav": {
+    "aboutMe": "Sobre mi",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "courses": "Cursos",
+    "personal": "Personal",
+    "techMedia": "Tech & Media",
+    "community": "Comunidad",
+    "youtube": "Canal de Youtube",
+    "github": "Contribucion Github",
+    "altruism": "Altruismo",
+    "blog": "Blog",
+    "letsConnect": "Conectemos"
+  },
+  "home": {
+    "greeting": "Hola",
+    "iam": "Soy",
+    "name": "Cristian Sanchez",
+    "aboutTitle": "Sobre Mi",
+    "aboutText": "Soy un Desarrollador de Software con experiencia en Desarrollo Full Stack, especializado en Java. Poseo fuertes habilidades de resolucion de problemas y liderazgo. Mi enfoque esta en crear soluciones tecnologicas de alta calidad y eficientes, y tengo un compromiso constante con la mejora continua y el aprendizaje. Estoy entusiasmado por contribuir al exito de cualquier equipo de desarrollo y enfrentar desafios tecnologicos con pasion y determinacion."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "searchPlaceholder": "Buscar proyectos...",
+    "personal": {
+      "title": "Proyectos Personales"
+    },
+    "courses": {
+      "title": "Proyectos de Cursos"
+    },
+    "viewProject": "Ver",
+    "viewCode": "Codigo",
+    "noResults": "No se encontraron proyectos."
+  },
+  "youtube": {
+    "title": "Canal de Youtube",
+    "latestVideos": "Ultimos Videos",
+    "countryVideos": "Videos por Pais",
+    "seriesVideos": "Series de Videos",
+    "viewChannel": "Ver Canal"
+  },
+  "courseProjects": {
+    "aiPython": {
+      "title": "Inteligencia Artificial & Python",
+      "description": "Proyecto de curso sobre Inteligencia Artificial utilizando Python."
+    }
+  },
+  "videos": {
+    "firstVideo": "India, el pais que construyo la tecnologia"
+  },
+  "footer": {
+    "about": "Sobre Mi",
+    "skills": "Habilidades",
+    "education": "Educacion",
+    "projects": "Proyectos",
+    "experience": "Experiencia"
+  },
+  "placeholder": {
+    "title": "Proximamente",
+    "description": "Esta seccion esta en construccion. Vuelve pronto para ver las novedades."
+  }
+}
